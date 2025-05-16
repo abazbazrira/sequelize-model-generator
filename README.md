@@ -1,14 +1,23 @@
-# Sequelize Model Generator
+# 🚀 Sequelize Model Generator
 
-Generate Sequelize model files from existing PostgreSQL tables using a simple CLI tool.
+A simple CLI tool to generate Sequelize model files from existing **PostgreSQL** tables.
 
-## Features
-- 🎯 Supports PostgreSQL
-- 🧱 CLI tool with customizable model name and output folder
-- 📦 Supports .env for secure DB config
-- 🗂 Output follows common Sequelize structure
+---
 
-## Installation
+## ✨ Features
+
+- ✅ Supports PostgreSQL
+- 🧱 Follows Sequelize `model` structure (compatible with controller-service pattern)
+- ⚙️ Customizable model and file name
+- 📁 Output to desired directory
+- 🔐 Uses `.env` for DB credentials
+- 🧪 Easy to use for existing or new Node.js projects
+
+---
+
+## 📦 Installation
 
 ```bash
-npm install -g @yourname/sequelize-model-generator
+npm install -g @abazbazrira.dev/sequelize-model-generator
+```
+> You can also use it locally in a project (without -g).
