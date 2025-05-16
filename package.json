@@ -1,5 +1,5 @@
 {
-  "name": "@abazbazrira.dev/sequelize-model-generator",
+  "name": "@bzn/sequelize-model-generator",
   "version": "1.0.1",
   "description": "CLI tool to generate Sequelize model files from PostgreSQL tables",
   "main": "lib/generator.js",
