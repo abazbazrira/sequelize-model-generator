@@ -1,10 +1,10 @@
 {
-  "name": "@bzn/sequelize-model-generator",
+  "name": "@abzn/sequelize-model-generator",
   "version": "1.0.1",
   "description": "CLI tool to generate Sequelize model files from PostgreSQL tables",
   "main": "lib/generator.js",
   "bin": {
-    "genmodel": "./bin/genmodel.js"
+    "genmodel": "bin/genmodel.js"
   },
   "scripts": {
     "start": "node bin/genmodel.js"
@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abazbazrira/sequelize-model-generator.git"
+    "url": "git+https://github.com/abazbazrira/sequelize-model-generator.git"
   },
   "homepage": "https://github.com/abazbazrira/sequelize-model-generator#readme",
   "bugs": {
