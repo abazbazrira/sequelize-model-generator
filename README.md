@@ -19,7 +19,7 @@ A simple CLI tool to generate Sequelize model files from existing **PostgreSQL**
 ## 📦 Installation
 
 ```bash
-npm install  @abazbazrira.dev/sequelize-model-generator
+npm install  @abzn/sequelize-model-generator
 ```
 
 > You can also use it globally (with -g).
